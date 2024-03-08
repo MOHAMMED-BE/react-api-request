@@ -1,5 +1,5 @@
 {
-  "name": "react-api-request",
+  "name": "@mbs-dev/react-api-request",
   "version": "1.0.0",
   "description": "api request",
   "main": "dist/index.js",

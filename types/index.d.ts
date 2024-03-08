@@ -1,1 +1,1 @@
-declare module 'react-api-request';
+declare module '@mbs-dev/react-api-request';
